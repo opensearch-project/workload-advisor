@@ -12,4 +12,9 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | ---------------------- | ------------------------------------------------------- | ----------- |
 | Atri Sharma            | [atris](https://github.com/atris)                       | Apple       |
 | Michael Froh           | [msfroh](https://github.com/msfroh)                     | Apple       |
-| Abhishek Singh         | [abhishekpsingh](https://github.com/abhishekpsingh)     | Apple       |
+
+## Emeritus
+
+| Maintainer             | GitHub ID                                               |
+| ----------------------- | ------------------------------------------------------- |
+| Abhishek Singh          | [abhishekpsingh](https://github.com/abhishekpsingh)      |
